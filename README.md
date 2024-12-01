@@ -71,8 +71,11 @@
 - **רקע:** תמונה חוזרת של רקע המשחק.
 - **קרקע:** תמונה של הקרקע עם גלילה מתמדת.
 
-### 🎵 **צלילים (אופציונלי)**
-- אפקטים קוליים להקפצה, צבירת נקודות וסיום משחק.
+### 📜 **סקריפטים**
+
+קוד המשחק, כולל Player.cs, GameManager.cs, Spawner.cs, ו-Parallax.cs, ניתן לצפייה ולעריכה בקישור:
+[Assets/Scripts](https://github.com/Eliozk/FlappyBird-Game-in-Unity/tree/main/Assets/Scripts)
+
 
 ---
 
